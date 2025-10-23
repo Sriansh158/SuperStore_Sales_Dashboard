@@ -1,2 +1,3 @@
-# SuperStore_Sales_Dashboard
-An interactive Power BI dashboard built using sales data from 2019–2020, featuring key performance indicators (Sales, Orders, Profit, and Average Ship Days). It includes data preprocessing, data cleaning, data visualization, and a 15-day sales forecast to support business decision-making &amp; efficiency
+# SuperStore-Data_Analysis (Interactive Dashboard creation using PowerBI)
+## Project Objective 
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
