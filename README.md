@@ -22,7 +22,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Dashboard
 <img width="1306" height="724" alt="Snapshot1 of the Dashboard" src="https://github.com/user-attachments/assets/7a5e1280-b752-4e37-a3dd-9986f6f3cba1" />
 <img width="1310" height="731" alt="Snapshot2 of the Dashboard" src="https://github.com/user-attachments/assets/e050d808-8100-455a-ad5a-8b161c4b1d65" />
-## Project Insights
+##Project Insights
 • Identified top-performing products and regions
 • Analyzed seasonal sales trends and delivery efficiency
 • Predicted short-term sales movement for proactive planning 
