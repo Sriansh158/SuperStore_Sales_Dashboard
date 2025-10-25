@@ -25,4 +25,5 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Project Insights
 • Identified top-performing products and regions
 • Analyzed seasonal sales trends and delivery efficiency
-• Predicted short-term sales movement for proactive planning
+• Predicted short-term sales movement for proactive planning 
+## Final Conclusion
