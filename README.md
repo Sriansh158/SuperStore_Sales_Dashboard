@@ -1,6 +1,8 @@
 # SuperStore-Data-Analysis (Interactive Dashboard creation using PowerBI)
 ## Project Objective 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+## Dataset Used
+- <a href="https://github.com/Sriansh158/SuperStore_Sales_Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
 ## Key Features
 ➡ 4 Main KPIs :
 • 💰 Total Sales
@@ -17,5 +19,3 @@ To contribute to the success of a business by utilizing data analysis techniques
 • Region-wise and category-wise performance
 • Trend analysis for monthly and yearly comparisons
 • Slicers and filters for dynamic insights
-## Dataset Used
-- <a href="https://github.com/Sriansh158/SuperStore_Sales_Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
